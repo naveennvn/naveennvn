@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi, I'm Naveen! 👋
+
+
+## 🚀 About Me
+I'm a QA Engineer interested in learning new things about Testing and the Automation.
+
+
+## 🛠 Skills
+_Functional Testing_
+>_Selenium,API Testing,Cypress_
+_MongoDB,SQL_
+>_AWS,NewRelic_
+_Jmeter(Novice)_
+
+
+
+
