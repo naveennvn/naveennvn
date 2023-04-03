@@ -23,11 +23,17 @@ I'm a QA Engineer interested in learning new things about Testing and the Automa
 
 
 ## 🛠 Skills
-_Functional Testing_
+>_Functional Testing_
+>
 >_Selenium,API Testing,Cypress_
-_MongoDB,SQL_
+>
+>_MongoDB,SQL_
+>
 >_AWS,NewRelic_
-_Jmeter(Novice)_
+>
+>_Jmeter(Novice)_
+
+
 
 
 
